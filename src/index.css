@@ -1,0 +1,19 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+@font-face{
+    font-family:"Sebastian";
+    src: local("Sebastian Bobby"),url("./fonts/sebastian_bobby-webfont.woff") format("truetype");
+}
+
+@font-face{
+    font-family:"Montserrat";
+    src: local("Montserrat"),url("./fonts/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Analogue";
+    src: local("Analogue"),url("./fonts/analogue-webfont-webfont.woff") format("truetype");
+}
